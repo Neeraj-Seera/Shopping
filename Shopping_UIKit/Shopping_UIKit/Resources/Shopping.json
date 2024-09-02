@@ -1,0 +1,281 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "description": "Devices and gadgets such as phones, laptops, and cameras.",
+      "image": "electronics",
+      "items": [
+        {
+          "itemName": "Smartphone",
+          "itemDescription": "A high-end smartphone with a large display and powerful features.",
+          "itemImage": "phone",
+          "price": 699.99
+        },
+        {
+          "itemName": "Laptop",
+          "itemDescription": "A lightweight laptop suitable for everyday use and travel.",
+          "itemImage": "laptop",
+          "price": 999.99
+        },
+        {
+          "itemName": "Smartwatch",
+          "itemDescription": "A smartwatch with fitness tracking and notifications.",
+          "itemImage": "watch",
+          "price": 199.99
+        },
+        {
+          "itemName": "Headphones",
+          "itemDescription": "Noise-cancelling headphones for immersive sound.",
+          "itemImage": "headphone",
+          "price": 129.99
+        },
+        {
+          "itemName": "Camera",
+          "itemDescription": "A digital camera with high resolution and multiple features.",
+          "itemImage": "camera",
+          "price": 499.99
+        },
+        {
+          "itemName": "Bluetooth Speaker",
+          "itemDescription": "A portable Bluetooth speaker with excellent sound quality.",
+          "itemImage": "speaker",
+          "price": 89.99
+        },
+        {
+          "itemName": "Tablet",
+          "itemDescription": "A versatile tablet with a high-resolution display.",
+          "itemImage": "tablet",
+          "price": 399.99
+        },
+        {
+          "itemName": "External Hard Drive",
+          "itemDescription": "A large-capacity external hard drive for extra storage.",
+          "itemImage": "harddisk",
+          "price": 149.99
+        }
+      ]
+    },
+    {
+      "name": "Fashion",
+      "description": "Clothing, accessories, and footwear for all seasons and styles.",
+      "image": "fashion",
+      "items": [
+        {
+          "itemName": "Leather Jacket",
+          "itemDescription": "A stylish leather jacket perfect for cool weather.",
+          "itemImage": "LeatherJacket",
+          "price": 149.99
+        },
+        {
+          "itemName": "Sneakers",
+          "itemDescription": "Comfortable sneakers for casual wear.",
+          "itemImage": "Sneakers",
+          "price": 89.99
+        },
+        {
+          "itemName": "Sunglasses",
+          "itemDescription": "Trendy sunglasses with UV protection.",
+          "itemImage": "Sunglasses",
+          "price": 59.99
+        },
+        {
+          "itemName": "Watch",
+          "itemDescription": "A classic wristwatch with a leather strap.",
+          "itemImage": "Watch",
+          "price": 199.99
+        },
+        {
+          "itemName": "Dress",
+          "itemDescription": "A beautiful dress for formal occasions.",
+          "itemImage": "Dress",
+          "price": 129.99
+        },
+        {
+          "itemName": "Hat",
+          "itemDescription": "A fashionable hat for sunny days.",
+          "itemImage": "Hat",
+          "price": 34.99
+        },
+        {
+          "itemName": "Scarf",
+          "itemDescription": "A cozy scarf to keep warm during winter.",
+          "itemImage": "Scarf",
+          "price": 24.99
+        },
+        {
+          "itemName": "Bag",
+          "itemDescription": "A versatile bag for daily use.",
+          "itemImage": "Bag",
+          "price": 79.99
+        }
+      ]
+    },
+    {
+      "name": "Home & Garden",
+      "description": "Furniture, decor, and gardening tools for your home and garden.",
+      "image": "home",
+      "items": [
+        {
+          "itemName": "Sofa",
+          "itemDescription": "A comfortable sofa for your living room.",
+          "itemImage": "Sofa",
+          "price": 499.99
+        },
+        {
+          "itemName": "Garden Shovel",
+          "itemDescription": "A durable shovel for gardening tasks.",
+          "itemImage": "GardenShovel",
+          "price": 24.99
+        },
+        {
+          "itemName": "Dining Table",
+          "itemDescription": "A stylish dining table for family meals.",
+          "itemImage": "DiningTable",
+          "price": 349.99
+        },
+        {
+          "itemName": "Lawn Mower",
+          "itemDescription": "A powerful lawn mower for maintaining your yard.",
+          "itemImage": "LawnMower",
+          "price": 299.99
+        },
+        {
+          "itemName": "Coffee Maker",
+          "itemDescription": "A coffee maker with multiple brewing options.",
+          "itemImage": "CoffeeMaker",
+          "price": 89.99
+        },
+        {
+          "itemName": "Rug",
+          "itemDescription": "A decorative rug to enhance your home decor.",
+          "itemImage": "Rug",
+          "price": 149.99
+        },
+        {
+          "itemName": "Bookshelf",
+          "itemDescription": "A spacious bookshelf for your book collection.",
+          "itemImage": "Bookshelf",
+          "price": 199.99
+        },
+        {
+          "itemName": "Outdoor Grill",
+          "itemDescription": "An outdoor grill for your backyard barbecues.",
+          "itemImage": "OutdoorGrill",
+          "price": 249.99
+        }
+      ]
+    },
+    {
+      "name": "Sports & Outdoors",
+      "description": "Equipment and apparel for various sports and outdoor activities.",
+      "image": "sports",
+      "items": [
+        {
+          "itemName": "Tennis Racket",
+          "itemDescription": "A high-quality tennis racket for enthusiasts.",
+          "itemImage": "racket",
+          "price": 129.99
+        },
+        {
+          "itemName": "Camping Tent",
+          "itemDescription": "A spacious tent suitable for family camping trips.",
+          "itemImage": "tent",
+          "price": 299.99
+        },
+        {
+          "itemName": "Bicycle",
+          "itemDescription": "A durable bicycle for commuting or recreation.",
+          "itemImage": "cycle",
+          "price": 499.99
+        },
+        {
+          "itemName": "Fishing Rod",
+          "itemDescription": "A high-performance fishing rod for angling.",
+          "itemImage": "rod",
+          "price": 89.99
+        },
+        {
+          "itemName": "Yoga Mat",
+          "itemDescription": "A non-slip yoga mat for your exercise routine.",
+          "itemImage": "yogamat",
+          "price": 29.99
+        },
+        {
+          "itemName": "Running Shoes",
+          "itemDescription": "Comfortable running shoes for jogging and workouts.",
+          "itemImage": "shoes",
+          "price": 119.99
+        },
+        {
+          "itemName": "Basketball",
+          "itemDescription": "A high-quality basketball for games and practice.",
+          "itemImage": "basketball",
+          "price": 34.99
+        },
+        {
+          "itemName": "Hiking Backpack",
+          "itemDescription": "A rugged backpack for hiking and outdoor adventures.",
+          "itemImage": "bag",
+          "price": 89.99
+        }
+      ]
+    },
+    {
+      "name": "Toys & Games",
+      "description": "Toys, games, and hobbies for children and adults alike.",
+      "image": "toys",
+      "items": [
+        {
+          "itemName": "Board Game",
+          "itemDescription": "A fun board game for family game nights.",
+          "itemImage": "boardgame",
+          "price": 34.99
+        },
+        {
+          "itemName": "Lego Set",
+          "itemDescription": "A creative Lego set for building and play.",
+          "itemImage": "legoset",
+          "price": 59.99
+        },
+        {
+          "itemName": "Puzzle",
+          "itemDescription": "A challenging puzzle to exercise your mind.",
+          "itemImage": "puzzle",
+          "price": 24.99
+        },
+        {
+          "itemName": "Action Figure",
+          "itemDescription": "A detailed action figure for collectors.",
+          "itemImage": "actionFigure",
+          "price": 19.99
+        },
+        {
+          "itemName": "Dollhouse",
+          "itemDescription": "A charming dollhouse with furniture and accessories.",
+          "itemImage": "dollhouse",
+          "price": 149.99
+        },
+        {
+          "itemName": "RC Car",
+          "itemDescription": "A remote-controlled car for racing and fun.",
+          "itemImage": "racing",
+          "price": 79.99
+        },
+        {
+          "itemName": "Teddy Bear",
+          "itemDescription": "A soft and cuddly teddy bear for children.",
+          "itemImage": "teddy",
+          "price": 29.99
+        },
+        {
+          "itemName": "Video Game",
+          "itemDescription": "A popular video game for entertainment.",
+          "itemImage": "vediogame",
+          "price": 59.99
+        }
+      ]
+    }
+  ]
+}
+
+
